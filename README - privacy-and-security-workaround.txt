@@ -1,4 +1,7 @@
-﻿README - privacy-and-security-workaround
+README - privacy-and-security-workaround
+
+Contact utilitariancrowcyber@gmail.com with questions
+
 
 network
 tor browser - allows you to access the main internet, securely. should get around restrictions, if not try using a bridge 
